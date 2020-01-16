@@ -1,0 +1,4 @@
+language: ofc-custom-node-template
+fprocess: node index.js
+welcome_message: |
+  You have created a new function using a custom my template. DM
